@@ -1,6 +1,6 @@
 # Banking-Churn-Analysis
 
-1)Conducted a churn analysis on Royal Bank of Canada (RBC) to identify the reasons behind customer attrition and increase bank profitability.
+1) Conducted a churn analysis on Royal Bank of Canada (RBC) to identify the reasons behind customer attrition and increase bank profitability.
 
 2) Leveraged Power BI and Power Query Editor to load and clean data from Snowflake, performed data modeling, and implemented role-level security (RLS). 
  
