@@ -9,3 +9,4 @@ Solution: Utilized PowerBI and Power Query Editor to load and clean data from Sn
 Outcome: Found that the bank has the attrition rate of 20%. Non-credit card holders has an attrition rate of 30.09%.
 
 Novypro account link to view the dashboard: 
+https://www.novypro.com/profile_projects/mayur
