@@ -10,6 +10,7 @@ Outcome: Found that the bank has the attrition rate of 20%. Non-credit card hold
 
 Screenshot of the dashboard:
 
+![banking_ss](https://user-images.githubusercontent.com/54434692/229272978-9d93d44e-22e2-4bba-98ee-460994655f64.PNG)
 
 
 
