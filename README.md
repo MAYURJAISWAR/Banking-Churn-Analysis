@@ -1,4 +1,4 @@
-# Royal-Bank-of-Canada-Churn-Analysis-
+# Banking-Churn-Analysis-
 
 Problem Statement: To perform churn analysis on Royal Bank of Canada to bring out few insights as what leads a client to leave the company 
 
